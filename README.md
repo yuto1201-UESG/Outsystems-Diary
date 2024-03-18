@@ -1,4 +1,4 @@
 # Outsystems-Diary
 
-[テスト]
+！[テスト]
 (/assets/images/Emotion_Default.jpg)
