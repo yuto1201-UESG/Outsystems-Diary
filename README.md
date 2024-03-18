@@ -1,3 +1,3 @@
 # Outsystems-Diary
 
-！[テスト](./Emotion_Default.jpg)
+！[テスト]( Emotion_Default.jpg)
