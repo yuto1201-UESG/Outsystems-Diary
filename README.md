@@ -35,8 +35,8 @@
 感情については、５つのうち１つのみ選択可能。
 
  
-<img src="https://github.com/yuto1201-UESG/Outsystems-Diary/assets/163832489/959d4971-349a-4525-be9f-b4785fea865e" width="300">
-<img src="https://github.com/yuto1201-UESG/Outsystems-Diary/assets/163832489/55507426-c1e9-4a5d-91a7-217209a8ce15" width="300">
+<img src="https://github.com/yuto1201-UESG/Outsystems-Diary/assets/163832489/959d4971-349a-4525-be9f-b4785fea865e" width="250">
+<img src="https://github.com/yuto1201-UESG/Outsystems-Diary/assets/163832489/55507426-c1e9-4a5d-91a7-217209a8ce15" width="250">
 
 
 .
@@ -47,7 +47,7 @@
 3.  Lightbox Image (画像の拡大表示)
 
 -Horizontal Date Picker-  
-<img src="https://github.com/yuto1201-UESG/Outsystems-Diary/assets/163832489/c82a1838-9b10-47b6-9d13-bacc576988d7" width="300">
+<img src="https://github.com/yuto1201-UESG/Outsystems-Diary/assets/163832489/c82a1838-9b10-47b6-9d13-bacc576988d7" width="250">
 
 -Lightbox Image-  
 <img src="https://github.com/yuto1201-UESG/Outsystems-Diary/assets/163832489/21923cd2-5d3c-4dff-98ee-9cb73db921ce" width="200">
