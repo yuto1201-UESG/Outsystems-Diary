@@ -23,7 +23,7 @@
 左上に感情情報、右上に日付を表示。  
 中央には画像3枚を横並びに表示し、その下の緑の欄に日記を表示。
 
-<img src="https://github.com/yuto1201-UESG/Outsystems-Diary/assets/163832489/1254eda6-d95a-48de-960c-9ec02a311f38" width="300">  
+<img src="https://github.com/yuto1201-UESG/Outsystems-Diary/assets/163832489/1254eda6-d95a-48de-960c-9ec02a311f38" width="250">  
 
 
 .
